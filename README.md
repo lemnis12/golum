@@ -4,7 +4,7 @@ GOLUM: Gravitational-wave analysis Of Lensed and Unlensed waveform Models
 
 The GOLUM methodology is aimed at getting fast and accurate parameter estimation for the strongly-lensed gravitational waves. 
 
-The methods' details can be found in
+The method's details can be found in
 -  A fast and precise methodology to search for and analyze strongly lensed gravitational-wave events, [Janquart et al, 2021](https://academic.oup.com/mnras/article/506/4/5430/6321838?login=false).
 
 ### Git structure
