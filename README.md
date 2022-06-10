@@ -23,8 +23,7 @@ We also recommand to install the `pymultinest` sampler, which is used in the exa
 If you use `GOLUM` for your research, please cite the associated [method paper](https://academic.oup.com/mnras/article/506/4/5430/6321838?login=false).
 
 Other works using `GOLUM`:
-- 
-On the identification of individual gravitational wave image types of a lensed system using higher-order modes, [Janquart et al, 2021](https://arxiv.org/abs/2110.06873)
+- On the identification of individual gravitational wave image types of a lensed system using higher-order modes, [Janquart et al, 2021](https://arxiv.org/abs/2110.06873)
 - Ordering the confusion: A study of the impact of lens models on gravitational-wave lensing detection capabilities, [Janquart et al, 2022](https://arxiv.org/abs/2205.11499v1)
 
 ### Other information
