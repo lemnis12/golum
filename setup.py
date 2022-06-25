@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
     name="golum",
-    version="0.2.0",
+    version="0.2.3",
     author="Justin Janquart, Haris K, Otto A. Hannuksela",
     author_email="j.janquart@uu.nl",
     description ="Gravitational-wave analysis Of Lensed and Unlensed waveform Models",
@@ -45,5 +45,5 @@ setuptools.setup(
                  "Programming Language :: Python :: 3.8",
                  "Programming Language :: Python :: 3.9",
                  "License :: OSI Approved :: MIT License"],
-    python_requires = ">=3.8"
+    python_requires = ">=3.7"
     )
