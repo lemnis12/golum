@@ -5,7 +5,7 @@ GOLUM: Gravitational-wave analysis Of Lensed and Unlensed waveform Models
 The GOLUM methodology is aimed at getting fast and accurate parameter estimation for the strongly-lensed gravitational waves. 
 
 The method's details can be found in
--  A fast and precise methodology to search for and analyze strongly lensed gravitational-wave events, [Janquart et al, 2021](https://academic.oup.com/mnras/article/506/4/5430/6321838?login=false).
+-  A fast and precise methodology to search for and analyze strongly lensed gravitational-wave events, [Janquart et al, 2021](https://academic.oup.com/mnras/article/506/4/5430/6321838?login=false), [Janquart et al, 2023](https://arxiv.org/pdf/2304.12148.pdf).
 
 ### Git structure
 This git contains two main folders:
@@ -23,7 +23,7 @@ The required Python packages are:
 We also recommend installing the `pymultinest` sampler, which is used in the examples.
 
 ### Citations and related work
-If you use `GOLUM` for your research, please cite the associated [method paper](https://academic.oup.com/mnras/article/506/4/5430/6321838?login=false).
+If you use `GOLUM` for your research, please cite the associated [method paper 1](https://academic.oup.com/mnras/article/506/4/5430/6321838?login=false) and [method paper 2](https://arxiv.org/pdf/2304.12148.pdf).
 
 Other works using `GOLUM`:
 - On the identification of individual gravitational wave image types of a lensed system using higher-order modes, [Janquart et al, 2021](https://arxiv.org/abs/2110.06873)
