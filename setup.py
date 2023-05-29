@@ -2,10 +2,11 @@ import setuptools
 
 setuptools.setup(
     name="golum",
-    version="1.0.0",
+    version="1.0.1",
     author="Justin Janquart, Haris K, Otto A. Hannuksela",
     author_email="j.janquart@uu.nl",
     description="Gravitational-wave analysis Of Lensed and Unlensed Waveform Models",
+    long_description="Gravitational-wave analysis Of Lensed and Unlensed Waveform Models",
     url="https://github.com/lemnis12/golum",
     packages=["golum",
               "golum.pe",

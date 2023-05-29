@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: golum
+Version: 1.0.1
+Summary: Gravitational-wave analysis Of Lensed and Unlensed Waveform Models
+Home-page: https://github.com/lemnis12/golum
+Author: Justin Janquart, Haris K, Otto A. Hannuksela
+Author-email: j.janquart@uu.nl
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Science/Research
+Classifier: Topic :: Scientific/Engineering :: Physics
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: License :: OSI Approved :: MIT License
+Requires-Python: >=3.7
+License-File: LICENSE
+
+Gravitational-wave analysis Of Lensed and Unlensed Waveform Models

@@ -22,6 +22,8 @@ The required Python packages are:
 
 We also recommend installing the `pymultinest` sampler, which is used in the examples.
 
+If you want to use examples with selection effects, please also install the `smeagol` package.
+
 ### Citations and related work
 If you use `GOLUM` for your research, please cite the associated [method paper 1](https://academic.oup.com/mnras/article/506/4/5430/6321838?login=false) and [method paper 2](https://arxiv.org/pdf/2304.12148.pdf).
 
