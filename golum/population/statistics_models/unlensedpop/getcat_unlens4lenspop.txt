@@ -1,0 +1,2 @@
+# run this on your local directory to download the catalog
+wget https://www.iucaa.in/~anupreeta/all_bbh_unlens4lensprop_O3.txt
